@@ -1,0 +1,27 @@
+*** Created by Shubham Singh ***
+shubhamsingh97@outlook.com
+
+-----------------------------------------------------------
+Create new project in pycharm and copy code from the files.
+
+
+Install python packages:-
+
+1. speech recognition:
+	$ pip install SpeechRecognition
+
+2. text to speech:
+	$ pip install pyttsx3
+
+3. audio:
+	$ pip install PyAudio
+
+4. portaudio:
+	$ brew install portaudio
+
+5. pywhatkit:
+	$ pip install pywhatkit
+
+6. pyjokes:
+	$ pip install pyjokes
+=============================================================
